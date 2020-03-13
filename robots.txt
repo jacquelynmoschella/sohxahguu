@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uicheefaev.ver.land/sitemap.xml
